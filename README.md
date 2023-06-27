@@ -1,7 +1,6 @@
 # Tableau-Project
 
-Tableau Sales Super Store Project Dashboard Link-1
-https://public.tableau.com/app/profile/dayasagar.barada/viz/SuperStoreProject_16769709248660/DescriptiveAnalysis?publish=yes
-
-Tableau Sales Super Store Project Dashboard Link-2
-https://public.tableau.com/app/profile/dayasagar.barada/viz/SuperStoreProject_16769709248660/PrescriptiveAnalysis?publish=yes
+1. Covid-19 in India Project:
+   https://public.tableau.com/app/profile/dayasagar.barada/viz/Covid19inIndiaProject/Dashboard1
+2. Netflix project:
+   https://public.tableau.com/app/profile/dayasagar.barada/viz/Netflixproject_16735976373220/Netflix
